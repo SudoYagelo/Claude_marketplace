@@ -1,0 +1,13 @@
+{
+  "name": "SudoYagelo-marketplace",
+  "owner": {
+    "name": "SudoYagelo",
+    "email": "t89992082464@yandex.ru"
+  },
+  "metadata": {
+    "description": "A marketplace for Claude Code plugins",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
