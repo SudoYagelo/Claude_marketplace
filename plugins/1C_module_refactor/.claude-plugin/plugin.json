@@ -3,11 +3,11 @@
   "description": "Плагин для проверки и исправления кода 1С:Предприятие согласно стандартам разработки",
   "version": "1.0.0",
   "author": {
-    "name": "1C Developer",
-    "email": "developer@1c.ru"
+    "name": "SudoYagelo",
+    "email": "t89992082464@yandex.ru"
   },
-  "homepage": "https://github.com/username/1c-code-standards",
-  "repository": "https://github.com/username/1c-code-standards",
+  "homepage": "https://github.com/SudoYagelo/Claude_marketplace",
+  "repository": "https://github.com/SudoYagelo/Claude_marketplace",
   "license": "MIT",
   "keywords": ["1c", "1c-enterprise", "code-quality", "linter", "formatter", "standards"]
 }
