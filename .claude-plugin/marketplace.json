@@ -9,5 +9,15 @@
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+   {
+      "name": "1c-refactor",
+      "source": "./plugins/1C_module_refactor",
+      "description": "Рефакторинг модулей 1С согласно стандартам разработки ИТС.",
+      "version": "1.0.0",
+      "author": {
+        "name": "SudoYagelo"
+      }
+    }
+  ]
 }
